@@ -1,0 +1,6 @@
+dont_dm = []
+mp_role_id = 897209066881974282
+whip_role_id = 
+aye_no_opts = ["aye", "no", "fuckin aye now", "fuckin no now"]
+bot_token = "<token>"
+prefix = "\\"
